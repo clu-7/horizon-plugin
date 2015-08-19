@@ -1,0 +1,11 @@
+[
+    { "id": 4019, "name": "apple", "inStock": 75},
+    { "id": 4232, "name": "banana", "inStock": 120},
+    { "id": 4610, "name": "cantaloupe", "inStock": 98},
+    { "id": 4872, "name": "durian", "inStock": 4},
+    { "id": 4660, "name": "pineapple", "inStock": 128},
+    { "id": 4211, "name": "watermelon", "inStock": 421},
+    { "id": 4321, "name": "strawberry", "inStock": 719},
+    { "id": 4412, "name": "grape", "inStock": 29},
+    { "id": 4001, "name": "orange", "inStock": 4}
+]

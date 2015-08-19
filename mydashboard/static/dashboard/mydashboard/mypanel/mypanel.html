@@ -1,0 +1,17 @@
+<h1>Welcome to Mae's Fresh Fruits!</h1>
+<div>Today's special: strawberry</div>
+<table ng-controller="MyController as table"
+  class="table-striped table-rsp table-detail modern">
+    <thead>
+        <th>ID</th>
+        <th>Name</th>
+        <th>In Stock</th>
+    </thead>
+    <tbody>
+        <tr ng-repeat="fruit in table.fruits">
+            <td>{$ fruit.id $}</td>
+            <td>{$ fruit.name $}</td>
+            <td>{$ fruit.inStock $}</td>
+        </tr>
+    </tbody>
+</table>
