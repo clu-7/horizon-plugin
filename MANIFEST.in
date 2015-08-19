@@ -1,0 +1,5 @@
+include setup.py
+
+recursive-include mydashboard/templates *
+recursive-include mydashboard/static *
+recursive-include mydashboard/mypanel/templates *
